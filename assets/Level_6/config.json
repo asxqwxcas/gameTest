@@ -1,0 +1,63 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_6",
+    "deps": [],
+    "uuids": [
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082",
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082@6c48a",
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082@f9941",
+        "7750563d-4a20-4fef-968d-eeaab735d93b",
+        "7750563d-4a20-4fef-968d-eeaab735d93b@6c48a",
+        "7750563d-4a20-4fef-968d-eeaab735d93b@f9941",
+        "95866e0f-20ec-49d6-b4b3-b967a9bcc843"
+    ],
+    "paths": {
+        "95866e0f-20ec-49d6-b4b3-b967a9bcc843": [
+            "Init/Prefab/Level_6",
+            "cc.Prefab",
+            1
+        ],
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082": [
+            "Init/Texture/pin_orb",
+            "cc.ImageAsset",
+            1
+        ],
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082@6c48a": [
+            "Init/Texture/pin_orb/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "655f4dec-5cf8-4d46-914d-8d651c0d2082@f9941": [
+            "Init/Texture/pin_orb/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "7750563d-4a20-4fef-968d-eeaab735d93b": [
+            "Init/Texture/wheel",
+            "cc.ImageAsset",
+            1
+        ],
+        "7750563d-4a20-4fef-968d-eeaab735d93b@6c48a": [
+            "Init/Texture/wheel/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7750563d-4a20-4fef-968d-eeaab735d93b@f9941": [
+            "Init/Texture/wheel/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

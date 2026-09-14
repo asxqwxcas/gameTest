@@ -1,0 +1,30 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_3",
+    "deps": [],
+    "uuids": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "bee24598-cf97-4715-baa0-08c542679cd0"
+    ],
+    "paths": {
+        "bee24598-cf97-4715-baa0-08c542679cd0": [
+            "Init/Prefab/Level_3",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,42 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_2",
+    "deps": [],
+    "uuids": [
+        "17d95e43-76e6-4283-9b69-0b33f1274615",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "bad50955-7d3b-464d-bf2f-3d3f476c99c5",
+        "c08d352e-a779-4ed9-a5f4-0a57c5be690c"
+    ],
+    "paths": {
+        "17d95e43-76e6-4283-9b69-0b33f1274615": [
+            "Init/Prefab/blockPrefab",
+            "cc.Prefab",
+            1
+        ],
+        "c08d352e-a779-4ed9-a5f4-0a57c5be690c": [
+            "Init/Prefab/Level_2",
+            "cc.Prefab",
+            1
+        ],
+        "bad50955-7d3b-464d-bf2f-3d3f476c99c5": [
+            "Init/Prefab/player",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

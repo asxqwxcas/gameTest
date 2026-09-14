@@ -1,0 +1,30 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_4",
+    "deps": [],
+    "uuids": [
+        "4bbb971e-51d0-4892-aa96-55ca34392d74",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+    ],
+    "paths": {
+        "4bbb971e-51d0-4892-aa96-55ca34392d74": [
+            "Init/Prefab/Level_4",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

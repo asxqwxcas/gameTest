@@ -1,0 +1,141 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "ResultDialog",
+    "deps": [],
+    "uuids": [
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732",
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732@6c48a",
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732@f9941",
+        "1ee2d464-51da-4097-a5b3-526ce34e218d",
+        "1ee2d464-51da-4097-a5b3-526ce34e218d@6c48a",
+        "1ee2d464-51da-4097-a5b3-526ce34e218d@f9941",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a",
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941",
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee",
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee@6c48a",
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee@f9941",
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c",
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c@6c48a",
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c@f9941",
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34",
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34@6c48a",
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34@f9941",
+        "b069a53d-e49d-49f2-813a-ff2bd4a04275",
+        "c25947ca-d366-4885-85a5-f343de29cc3b",
+        "c25947ca-d366-4885-85a5-f343de29cc3b@6c48a",
+        "c25947ca-d366-4885-85a5-f343de29cc3b@f9941",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5@6c48a",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5@f9941"
+    ],
+    "paths": {
+        "b069a53d-e49d-49f2-813a-ff2bd4a04275": [
+            "Prefab/ResultDialog",
+            "cc.Prefab",
+            1
+        ],
+        "c25947ca-d366-4885-85a5-f343de29cc3b": [
+            "Texture/btn_home",
+            "cc.ImageAsset",
+            1
+        ],
+        "c25947ca-d366-4885-85a5-f343de29cc3b@6c48a": [
+            "Texture/btn_home/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c25947ca-d366-4885-85a5-f343de29cc3b@f9941": [
+            "Texture/btn_home/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "1ee2d464-51da-4097-a5b3-526ce34e218d": [
+            "Texture/btn_next",
+            "cc.ImageAsset",
+            1
+        ],
+        "1ee2d464-51da-4097-a5b3-526ce34e218d@6c48a": [
+            "Texture/btn_next/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "1ee2d464-51da-4097-a5b3-526ce34e218d@f9941": [
+            "Texture/btn_next/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34": [
+            "Texture/btn_retry",
+            "cc.ImageAsset",
+            1
+        ],
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34@6c48a": [
+            "Texture/btn_retry/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8a5f0fc3-f55b-4cbe-b7b2-b3512eccae34@f9941": [
+            "Texture/btn_retry/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee": [
+            "Texture/dialog_bg",
+            "cc.ImageAsset",
+            1
+        ],
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee@6c48a": [
+            "Texture/dialog_bg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5c60b7a8-c807-4d66-ae63-2dd5f6dd6dee@f9941": [
+            "Texture/dialog_bg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732": [
+            "Texture/star_gold",
+            "cc.ImageAsset",
+            1
+        ],
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732@6c48a": [
+            "Texture/star_gold/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "10cffcbb-cf28-4556-8e48-0a4a560c4732@f9941": [
+            "Texture/star_gold/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c": [
+            "Texture/star_gray",
+            "cc.ImageAsset",
+            1
+        ],
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c@6c48a": [
+            "Texture/star_gray/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6c62ebbb-d8d7-40f3-be13-bd411e829d8c@f9941": [
+            "Texture/star_gray/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

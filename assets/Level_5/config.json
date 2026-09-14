@@ -1,0 +1,48 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_5",
+    "deps": [],
+    "uuids": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea",
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea@6c48a",
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea@f9941",
+        "f9280701-e0eb-495b-bb6d-54778533ae52"
+    ],
+    "paths": {
+        "f9280701-e0eb-495b-bb6d-54778533ae52": [
+            "Init/Prefab/Level_5",
+            "cc.Prefab",
+            1
+        ],
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea": [
+            "Init/Texture/111",
+            "cc.ImageAsset",
+            1
+        ],
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea@6c48a": [
+            "Init/Texture/111/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "bcba8e24-dc3c-4943-81b4-7b86d8378eea@f9941": [
+            "Init/Texture/111/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

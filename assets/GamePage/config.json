@@ -1,0 +1,48 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "GamePage",
+    "deps": [],
+    "uuids": [
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c",
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c@6c48a",
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c@f9941",
+        "be5d3390-e66a-4542-8bf6-691b7cfc2b10",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5@6c48a",
+        "d0a24c67-135e-466a-b250-3c9b6d6e69b5@f9941"
+    ],
+    "paths": {
+        "be5d3390-e66a-4542-8bf6-691b7cfc2b10": [
+            "Prefab/GamePage",
+            "cc.Prefab",
+            1
+        ],
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c": [
+            "Texture/btn_back",
+            "cc.ImageAsset",
+            1
+        ],
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c@6c48a": [
+            "Texture/btn_back/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "97de78d6-fb57-4fc7-9b20-1d6be36b215c@f9941": [
+            "Texture/btn_back/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

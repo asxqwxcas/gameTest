@@ -1,0 +1,27 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Audio",
+    "deps": [],
+    "uuids": [
+        "0b6067e0-d6f1-41f4-bfe1-5f14d6a4f9a5"
+    ],
+    "paths": {
+        "0b6067e0-d6f1-41f4-bfe1-5f14d6a4f9a5": [
+            "Bgm",
+            "cc.AudioClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,72 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Level_1",
+    "deps": [],
+    "uuids": [
+        "16049fe6-8e8e-4381-93a9-ee65091db40c",
+        "16049fe6-8e8e-4381-93a9-ee65091db40c@6c48a",
+        "16049fe6-8e8e-4381-93a9-ee65091db40c@f9941",
+        "314161e9-8336-4905-bf22-89584a4714f0",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5",
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5@6c48a",
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5@f9941",
+        "f23c6bce-7d9f-41a4-9b32-f620a69ce7a6"
+    ],
+    "paths": {
+        "16049fe6-8e8e-4381-93a9-ee65091db40c": [
+            "Base/Texture/icon_task",
+            "cc.ImageAsset",
+            1
+        ],
+        "16049fe6-8e8e-4381-93a9-ee65091db40c@6c48a": [
+            "Base/Texture/icon_task/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "16049fe6-8e8e-4381-93a9-ee65091db40c@f9941": [
+            "Base/Texture/icon_task/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f23c6bce-7d9f-41a4-9b32-f620a69ce7a6": [
+            "Init/Prefab/Level_1",
+            "cc.Prefab",
+            1
+        ],
+        "314161e9-8336-4905-bf22-89584a4714f0": [
+            "Init/Sound/bgm",
+            "cc.AudioClip",
+            1
+        ],
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5": [
+            "Init/Texture/bg_levelselect",
+            "cc.ImageAsset",
+            1
+        ],
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5@6c48a": [
+            "Init/Texture/bg_levelselect/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "80bbeacf-c236-4605-b9c8-02abb75c86c5@f9941": [
+            "Init/Texture/bg_levelselect/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
